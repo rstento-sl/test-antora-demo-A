@@ -1,2 +1,2 @@
 # test-antora-demo-A
-Modify the example Antora repo for module !
+This is an example of a documentation component.
