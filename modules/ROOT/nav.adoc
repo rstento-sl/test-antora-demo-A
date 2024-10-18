@@ -1,2 +1,2 @@
-* xref:index.adoc[]
+* xref:pages:index.adoc[]
 
