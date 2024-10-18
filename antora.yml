@@ -1,7 +1,6 @@
 name: component-A
-title: Get started
+title: SnapLogic documentation
 version: 1
-start_page: index.adoc
 asciidoc:
   attributes:
     source-language: asciidoc@
